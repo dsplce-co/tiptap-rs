@@ -1,0 +1,5 @@
+[tasks.'serve']
+description = "Runs example"
+install_crate = "trunk"
+command = "trunk"
+args = ["serve", "src/examples/main/index.html"]

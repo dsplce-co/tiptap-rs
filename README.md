@@ -1,6 +1,6 @@
 # tiptap-rs
 
-**WASM Bindings for Tiptap** — Type-safe Rust bindings for the [Tiptap](https://tiptap.dev/) headless rich text editor. This crate's API is designed to reflect Tiptap's original JavaScript API as faithfully as possible, while also providing a more idiomatic Rust experience.
+**Wasm Bindings for Tiptap** — Type-safe Rust bindings for the [Tiptap](https://tiptap.dev/) headless rich text editor. This crate's API is designed to reflect Tiptap's original JavaScript API as faithfully as possible, while also providing a more idiomatic Rust experience.
 
 ---
 
@@ -15,7 +15,7 @@ tiptap-rs = "0.1.1"
 
 ## Setup
 
-Add the following script to your HTML `<head>` tag to make Tiptap available to your WASM module:
+Add the following script to your HTML `<head>` tag to make Tiptap available to your Wasm module:
 
 ```html
 <script type="module">
@@ -97,15 +97,6 @@ The following Tiptap extensions have Rust bindings:
 - **Headings**: H1 through H6
 - **Basic Blocks**: Paragraphs
 - **StarterKit**: Complete bundle of common extensions
-
----
-
-## 🧠 How It Works
-
-1. **JavaScript Bridge**: Uses `wasm-bindgen` to create FFI bindings to Tiptap's JavaScript APIs
-2. **Type Safety**: Leverages Rust's type system while maintaining Tiptap's API patterns
-3. **WebAssembly**: Compiles to WASM for seamless integration with web applications
-4. **Extension System**: Provides Rust interfaces for Tiptap's modular extension architecture
 
 ---
 

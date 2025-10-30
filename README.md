@@ -1,6 +1,6 @@
 # tiptap-rs
 
-**Wasm Bindings for Tiptap** — Type-safe Rust bindings for the [Tiptap](https://tiptap.dev/) headless rich text editor. This crate's API is designed to reflect Tiptap's original JavaScript API as faithfully as possible, while also providing a more idiomatic Rust experience.
+✍️ Type-safe Wasm bindings for the [Tiptap](https://tiptap.dev/) headless rich text editor. This crate's API is designed to reflect Tiptap's original JavaScript API as faithfully as possible, while also providing a more idiomatic Rust experience.
 
 ---
 
@@ -10,7 +10,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-tiptap-rs = "0.1.2"
+tiptap-rs = "0.1.3"
 ```
 
 ## Setup

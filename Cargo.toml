@@ -3,6 +3,8 @@ name = "tiptap-rs"
 version = "0.1.0"
 edition = "2021"
 repository = "https://github.com/dsplce-co/tiptap-rs"
+description = "WASM bindings for Tiptap"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 affix = "0.1.2"

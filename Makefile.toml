@@ -2,4 +2,4 @@
 description = "Runs example"
 install_crate = "trunk"
 command = "trunk"
-args = ["serve", "src/examples/main/index.html"]
+args = ["serve", "examples/main/index.html"]

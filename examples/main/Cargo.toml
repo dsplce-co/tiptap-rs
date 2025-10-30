@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-tiptap-rs = { path = "../../.." }
+tiptap-rs = { path = "../.." }
 affix = "0.1.2"
 console_error_panic_hook = "0.1.7"
 gloo = "0.11.0"

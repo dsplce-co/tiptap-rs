@@ -1,14 +1,6 @@
 # tiptap-rs
 
-**WASM Bindings for Tiptap** — Type-safe Rust bindings for the [Tiptap](https://tiptap.dev/) headless rich text editor
-
----
-
-## 🖤 Features
-
-✅ Type-safe Rust bindings for Tiptap<br>
-✅ WASM-oriented<br>
-✅ Chained command API<br>
+**WASM Bindings for Tiptap** — Type-safe Rust bindings for the [Tiptap](https://tiptap.dev/) headless rich text editor. This crate's API is designed to reflect Tiptap's original JavaScript API as faithfully as possible, while also providing a more idiomatic Rust experience.
 
 ---
 
@@ -18,10 +10,10 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-tiptap-rs = "0.1.0"
+tiptap-rs = "0.1.1"
 ```
 
-### Setup
+## Setup
 
 Add the following script to your HTML `<head>` tag to make Tiptap available to your WASM module:
 
@@ -173,7 +165,7 @@ The example demonstrates:
 
 ## 📁 Repo & Contributions
 
-📦 Crate: [crates.io/crates/tiptap-rs](https://crates.io/crates/tiptap-rs)
+📦 Crate: [crates.io/crates/tiptap-rs](https://crates.io/crates/tiptap-rs)<br>
 🛠️ Repo: [github.com/dsplce-co/tiptap-rs](https://github.com/dsplce-co/tiptap-rs)
 
 PRs welcome! 🖤

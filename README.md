@@ -1,3 +1,5 @@
+> We're dsplce.co, check out our work on [github.com/dsplce-co](https://github.com/dsplce-co) 🖤
+
 # tiptap-rs
 
 ✍️ Type-safe Wasm bindings for the [Tiptap](https://tiptap.dev/) headless rich text editor. This crate's API is designed to reflect Tiptap's original JavaScript API as faithfully as possible, while also providing a more idiomatic Rust experience.

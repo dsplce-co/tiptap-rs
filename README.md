@@ -10,7 +10,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-tiptap-rs = "0.1.1"
+tiptap-rs = "0.1.2"
 ```
 
 ## Setup

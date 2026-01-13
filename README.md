@@ -1,4 +1,4 @@
-> We're dsplce.co, check out our work on [github.com/dsplce-co](https://github.com/dsplce-co) 🖤
+> We're dsplce.co, check out our work on our website: [dsplce.co](https://dsplce.co) 🖤
 
 # tiptap-rs
 
@@ -12,7 +12,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-tiptap-rs = "0.1.4"
+tiptap-rs = "0.1"
 ```
 
 ## Setup

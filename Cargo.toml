@@ -1,8 +1,9 @@
 [package]
 name = "tiptap-rs"
-version = "0.1.6"
+version = "0.1.7"
 edition = "2021"
 repository = "https://github.com/dsplce-co/tiptap-rs"
+homepage = "https://dsplce.co/our-work/tiptap-rs"
 description = "Wasm bindings for Tiptap"
 license = "MIT OR Apache-2.0"
 
